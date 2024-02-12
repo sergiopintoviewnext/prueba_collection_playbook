@@ -2,4 +2,4 @@
 collections:
   - name: https://github.com/sergiopintoviewnext/prueba_collection_playbook.git#viewnext/torre_control
     type: git
-    version: "master"
+    version: 1.0.0
