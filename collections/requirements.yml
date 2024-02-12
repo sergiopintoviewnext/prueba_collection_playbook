@@ -2,4 +2,4 @@
 collections:
   - name: https://github.com/sergiopintoviewnext/viewnext.general.git
     type: git
-    version: 1.0.0
+    version: 1.0.1
