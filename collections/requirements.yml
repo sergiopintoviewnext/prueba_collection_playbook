@@ -1,5 +1,5 @@
 ---
 collections:
-  - name: https://github.com/sergiopintoviewnext/prueba_collection_playbook.git#viewnext/torre_control
+  - name: https://github.com/sergiopintoviewnext/viewnext.general.git#viewnext/general
     type: git
     version: "master"
