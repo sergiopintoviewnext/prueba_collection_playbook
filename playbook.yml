@@ -1,6 +1,8 @@
 ---
 
 - hosts: localhost
+  collections:
+    - viewnext.general
   tasks:
     - name: prueba collection
       viewnext.general.prueba:
