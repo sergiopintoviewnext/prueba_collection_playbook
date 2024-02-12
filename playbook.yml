@@ -7,7 +7,7 @@
     - name: prueba collection
       viewnext.general.prueba:
         msg: "Mensaje de prueba"
-      reigster: prueba_collection
+      register: prueba_collection
 
     - debug:
         var: prueba_collection
