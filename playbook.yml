@@ -1,0 +1,11 @@
+---
+
+- hosts: localhost
+  tasks:
+    - name: prueba collection
+      viewnext.general.prueba:
+        msg: "Mensaje de prueba"
+      reigster: prueba_collection
+
+    - debug:
+        var: prueba_collection
