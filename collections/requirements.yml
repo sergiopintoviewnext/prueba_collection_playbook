@@ -1,5 +1,5 @@
 ---
 collections:
-  - name: https://github.com/sergiopintoviewnext/viewnext.general.git#viewnext/general
+  - name: https://github.com/sergiopintoviewnext/viewnext.general.git
     type: git
     version: "master"
