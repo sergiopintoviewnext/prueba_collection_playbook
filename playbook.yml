@@ -6,7 +6,7 @@
   tasks:
     - name: prueba collection
       viewnext.general.prueba:
-        content: "Contenido de prueba"
+        content: "Contenido de prueba 2"
       register: prueba_collection
 
     - debug:
